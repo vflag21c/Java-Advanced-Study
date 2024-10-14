@@ -1,6 +1,6 @@
-package uitl;
+package util;
 
-import static uitl.MyLogger.log;
+import static util.MyLogger.log;
 
 public abstract class ThreadUtils {
 

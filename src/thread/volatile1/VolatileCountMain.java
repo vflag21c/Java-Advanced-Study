@@ -1,7 +1,7 @@
 package thread.volatile1;
 
-import static uitl.MyLogger.log;
-import static uitl.ThreadUtils.sleep;
+import static util.MyLogger.log;
+import static util.ThreadUtils.sleep;
 
 public class VolatileCountMain {
     public static void main(String[] args) {
